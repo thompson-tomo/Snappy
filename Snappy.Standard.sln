@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Snappy.Standard", "src\Snappy.Standard\Snappy.Standard.csproj", "{4332ACD3-43B8-47BB-8A85-FB879FE603A2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SnappyCodecTest", "test\Snappy.Tests\SnappyCodecTest.csproj", "{A9792B5A-08AB-417E-9A4D-EBF6A483ACED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4332ACD3-43B8-47BB-8A85-FB879FE603A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4332ACD3-43B8-47BB-8A85-FB879FE603A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4332ACD3-43B8-47BB-8A85-FB879FE603A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4332ACD3-43B8-47BB-8A85-FB879FE603A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9792B5A-08AB-417E-9A4D-EBF6A483ACED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9792B5A-08AB-417E-9A4D-EBF6A483ACED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9792B5A-08AB-417E-9A4D-EBF6A483ACED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9792B5A-08AB-417E-9A4D-EBF6A483ACED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83584B20-4BEF-407E-9E14-3A5940C33627}
+	EndGlobalSection
+EndGlobal
